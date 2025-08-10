@@ -6,7 +6,7 @@ import os
 from flask import Flask
 
 TOKEN = "8210719359:AAHQ6wOHWdOzHTuiRoD1GXxwT0SqlED6ihk"
-ADMIN_ID = 8210719359
+ADMIN_ID = 7717315369
 
 bot = telebot.TeleBot(TOKEN)
 app = Flask(__name__)
